@@ -27,9 +27,9 @@ This project conducts a comprehensive audit of the Apache HTTP Server, exploring
 
 
 ## How to Run the Project
-Step 1: Clone the repository
-git clone https://github.com/jayeshdhingra1234/oss-audit-24BAI10622
-cd oss-audit-24BAI10622 
+-Step 1: Clone the repository
+-git clone https://github.com/jayeshdhingra1234/oss-audit-24BAI10622
+-cd oss-audit-24BAI10622 
 
 ## Installation
 ```bash

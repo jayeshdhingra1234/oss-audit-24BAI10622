@@ -33,3 +33,7 @@ sudo apt install apache2 -y
 
 # Make scripts executable
 chmod +x script*.sh
+How to Run the Project
+Step 1: Clone the repository
+git clone 
+cd oss-audit-24BAI10622
